@@ -6,6 +6,7 @@
 
 - Briefly describe your initial UML design.
 - What classes did you include, and what responsibilities did you assign to each?
+Pet will get the name, type, and potentially breed of the pet. It should have things like the pet's weight, any allergies and triggers. Tasks will get a list of tasks the customer would like for us to do for their pet and with what details if any. Schedule will hold, organize, and display a daily schedule for the user to keep track.
 
 **b. Design changes**
 
